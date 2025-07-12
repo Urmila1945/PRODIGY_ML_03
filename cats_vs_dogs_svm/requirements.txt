@@ -1,3 +1,4 @@
+
 tensorflow>=2.13.0
 opencv-python
 scikit-learn
@@ -7,3 +8,4 @@ streamlit
 joblib
 numpy
 scikit-image
+tqdm
