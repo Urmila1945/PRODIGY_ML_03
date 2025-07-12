@@ -12,3 +12,5 @@ Place the `train` folder inside the project directory.
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+2. Run
+streamlit run app.py
