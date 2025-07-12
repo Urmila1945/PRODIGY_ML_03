@@ -1,5 +1,3 @@
-# cats_vs_dogs_app.py
-
 import streamlit as st
 import numpy as np
 import cv2
